@@ -12,6 +12,10 @@ Plugin 'gmarik/Vundle.vim'
 
 " plugin on GitHub repo
 Plugin 'tpope/vim-fugitive'
+Plugin 'scrooloose/nerdtree'
+Plugin 'tpope/vim-surround'
+Plugin 'bling/vim-airline'
+
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
